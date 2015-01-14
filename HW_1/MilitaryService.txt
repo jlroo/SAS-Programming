@@ -1,0 +1,24 @@
+Cavanaugh/Peter/M/Marines/7.4
+Geddy/Gerald/M/Army/10.3
+Roseland/Megan/F/Army/5.1
+Smith/Eileen/F/Air Force/6.2
+Peterson/Thomas/M/Navy/13.7
+Bemmers/Ronald/M/Army/4.8
+Johnson/James/M/Marines/8.6
+Lovelace/Henry/M/Marines/20.1
+Patel/Sundeep/M/Army/14.7
+Li/Kim/M/Navy/10.8
+Parks/Tu/F/Marines/4.9
+Shotsky/Mona/F/Army/3.3
+Ramble/Johnny/M/Air Force/15.0
+Fobby/Anthony/M/Air Force/11.2
+Rinaldi/Christopher/M/Navy/5.4
+Canter/Kathleen/F/Army/5.0
+Welch/Amber/F/Marines/9.6
+Johnson/Tracy/M/Marines/5.8
+Little/Lemont/M/Navy/6.8
+Freeman/Thomas/M/Army/4.2
+Comissong/Ellen/F/Navy/11.6
+Early/Michael/M/Army/14.1
+Hicks/Barbara/F/Air Force/8.3
+Smith/Andrew/M/Air Force/9.5
