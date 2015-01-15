@@ -1,7 +1,7 @@
 STAT 303: SAS Programming and Applied Statistics
 ==============================
 ###Mathematics Department
-###Loyola University 
+###Loyola University - Fall 2014
 
 ## Instructor
 Dr. Michael Perry
